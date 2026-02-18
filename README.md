@@ -1,2 +1,2 @@
-# The-Smart-SHIELD-v2.0
+# The-Smart-SHIELD-Project
 This is an fake antivirus.
