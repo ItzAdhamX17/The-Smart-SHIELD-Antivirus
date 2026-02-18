@@ -1,4 +1,4 @@
-# The-Smart-SHIELD-Project
+# The-Smart-SHIELD-Antivirus
 The Smart SHIELD is a next-generation antivirus and digital security system designed to provide powerful, intelligent protection while remaining fast and easy to use. Built with a focus on smart detection and performance balance, it protects devices from viruses, ransomware, spyware, malicious scripts, and unsafe websites without slowing down the system.
 
 At its core, The Smart SHIELD uses an advanced hybrid scanning engine that combines signature detection with behavior monitoring. This means it can recognize both known threats and suspicious activity from new, unknown malware. Instead of only relying on virus definitions, it observes how programs act. If an application suddenly tries to modify protected files, disable system tools, or connect to unsafe servers, The Smart SHIELD reacts instantly.
